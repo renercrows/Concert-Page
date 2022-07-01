@@ -5,7 +5,7 @@
 > A responsive flexbox webpage that has accessibility.
 
 ## Online Webpage
-- https://renercrows.github.io/Milestone1/
+- https://github.com/renercrows/Milestone1/tree/main
 
 ## Built With
 
