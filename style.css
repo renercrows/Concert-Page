@@ -11,6 +11,25 @@
     margin-top: -2%;
   }
 
+  .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px 15px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: black;
+  }
+
+  .bar2 {
+    display: block;
+    width: 100%;
+    height: 3px;
+    margin-bottom: 10%;
+    margin-left: -5%;
+    background-color: white;
+  }
+
   .hamburguer.active .bar:nth-child(2) {
     opacity: 0;
   }
@@ -41,7 +60,7 @@
   .menu {
     display: flex;
   }
-  
+
   .nav-logo {
     display: none;
   }
@@ -73,12 +92,6 @@
   }
 
   .nav-link1 {
-    color: orangered;
-    text-decoration: none;
-    font-size: 150%;
-  }
-
-  .nav-link1 {
     display: none;
   }
 
@@ -89,30 +102,11 @@
   li:not(:last-child) {
     margin-bottom: 15%;
     margin-top: 5%;
-}
-
-.bar2 {
-  display: block;
-  width: 100%;
-  height: 3px;
-  margin-bottom: 10%;
-  margin-left: -5%;
-  background-color: white;
-}
+  }
 
   .nav-main .active {
       display: flex;
     }
-
-  .bar {
-    display: block;
-    width: 25px;
-    height: 3px;
-    margin: 5px 15px;
-    -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    background-color: black;
-  }
 
   .header {
     display: flex;
@@ -138,13 +132,13 @@
     font-size: 30px;
     margin-top: 10%;
     margin-bottom: -7%;
-    color: rgb(238, 64, 6);
+    color: rgb(253, 71, 10);
   }
   
   .header h1 {
     text-align: center;
     font-size: 40px;
-    font-family: Cocogoose, sans-serif;
+    font-family: 'Cocogoose', sans-serif;
     color: rgb(250, 43, 6);
   }
 
@@ -154,7 +148,7 @@
     font-family: Cocogoose, sans-serif;
     color: rgb(250, 85, 25);
   }
-  
+
   .header p {
     text-align: center;
     color: rgb(121, 119, 119);
@@ -162,7 +156,7 @@
     font-family: inter, sans-serif;
     font-size: 25px; 
   }
-  
+
   .header h3 {
     text-align: center;
     font-size: 30px;
@@ -570,7 +564,7 @@
     font-family: 'Lucida Sans';
     font-size: 50px;
     margin-top: 10%;
-    color: rgb(238, 64, 6);
+    color: rgb(253, 71, 10);
   }
   
   .header h1 {
@@ -660,7 +654,7 @@
     text-align: center;
     font-family: sans-serif;
     font-size: 0.813em;
-    padding: 0px 17px;
+    padding: 0 17px;
     line-height: 1.5em;
     color: white;
   }
