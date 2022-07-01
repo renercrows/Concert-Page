@@ -2,14 +2,14 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> A responsive flexbox webpage that has accessibility.
+> A responsive flexbox webpage for a concert company, with Doom manipulating objects JavaScript, HTML, CSS, and flexbox.
 
 ## Online Webpage
 - https://github.com/renercrows/Milestone1/tree/main
 
 ## Built With
 
-- HTML, CSS, Flexbox and, Media Query
+- HTML, CSS, Flexbox, Media Query and, DOOM
 
 ## Author
 
