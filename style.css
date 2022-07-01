@@ -573,7 +573,6 @@
     font-size: 60px;
     margin-top: -3%;
     color: rgb(250, 43, 6);
-    box-shadow: 0 1px 0 0 black;
   }
 
   .header2 h1 {
@@ -582,7 +581,6 @@
     font-size: 60px;
     margin-top: 13%;
     color: rgb(250, 85, 25);
-    box-shadow:  0 1px 0 0 black;
   }
 
   .header p {
