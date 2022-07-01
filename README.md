@@ -2,12 +2,10 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Desktop Portfolio
-
 > A responsive flexbox webpage that has accessibility.
 
 ## Online Webpage
-- https://renercrows.github.io/Desktop-Portdolio/
+- https://renercrows.github.io/Milestone1/
 
 ## Built With
 
