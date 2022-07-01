@@ -43,7 +43,7 @@
   }
 
   .navbar {
-    background-image: url(images/mobilebackground.png);
+    background-image: url(images/headerbackground.png);
     background-size: contain;
     width: 104%;
     margin-top: -1.9%;
@@ -92,7 +92,9 @@
   }
 
   .nav-link1 {
-    display: none;
+    color: orangered;
+    text-decoration: none;
+    font-size: 150%;
   }
 
   .nav-link2 {
@@ -119,6 +121,7 @@
     display: flex;
     flex-direction: column;
     margin-top: 10%;
+    background-image: url(images/aboutbackground.png);
     text-align: left;
   }
 
@@ -232,10 +235,19 @@
     color: white;
     border: none;
   }
+  
+
+  .body2 {
+    background-color: rgb(245, 240, 240);
+    height: 790px;
+    width: 104.3%;
+    margin-left: -2%;
+  }
 
   .detail {
     text-align: center;
     margin: 0 auto 33px;
+    margin-left: 5%;
     padding-top: 38px;
     line-height: 25px;
     border: 1px solid rgb(223, 223, 223);
@@ -546,7 +558,7 @@
     display: flex;
     flex-direction: column;
     margin-top: 0.2%;
-    background-image: url(images/headerbackground.png);
+    background-image: url(images/aboutbackground.png);
   }
 
   .guide-bar2 {
@@ -666,6 +678,14 @@
     font-family: sans-serif;
     font-size: 1.125em;
     color: white;
+  }
+
+  .body2 {
+    background-color: rgb(245, 240, 240);
+    height: 930px;
+    margin-bottom: -7%;
+    width: 104.3%;
+    margin-left: -2%;
   }
 
   .detail {
