@@ -7,9 +7,6 @@
 ## Online Webpage
 - https://github.com/renercrows/Milestone1/tree/main
 
-## Acknowledgements
--  credit to Cindy Shin the author of the original design
-
 ## Built With
 
 - HTML, CSS, Flexbox, Media Query and, DOOM
@@ -29,9 +26,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- credit to Cindy Shin the author of the original design
 
 ## 📝 License
 
