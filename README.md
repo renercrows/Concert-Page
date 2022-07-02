@@ -5,7 +5,7 @@
 > A responsive flexbox webpage for a concert company, with Doom manipulating objects JavaScript, HTML, CSS, and flexbox.
 
 ## Online Webpage
-- https://github.com/renercrows/Milestone1/tree/main
+- https://renercrows.github.io/Milestone1/
 
 ## Built With
 
