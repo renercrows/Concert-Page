@@ -26,7 +26,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## Acknowledgments
 
-- credit to Cindy Shin the author of the original design
+- Credit to Cindy Shin the author of the original design
 
 ## 📝 License
 
